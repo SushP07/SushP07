@@ -30,9 +30,6 @@ I am a **Lead-minded Software & Data Engineer** specialized in building reliable
 
 ### 📊 **GitHub Stats**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushP07&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
 
 ---
 
@@ -40,5 +37,5 @@ I am a **Lead-minded Software & Data Engineer** specialized in building reliable
 ---
 
 ### 📫 **Connect with me**
- **LinkedIn:** [linkedin.com/in/sushrut-pakhale](https://www.linkedin.com/in/sushrut-pakhale) [cite: 2]
- **Email:** [spakhale.sp@gmail.com](mailto:spakhale.sp@gmail.com) [cite: 2]
+ **LinkedIn:** [linkedin.com/in/sushrut-pakhale](https://www.linkedin.com/in/sushrut-pakhale)
+ **Email:** [spakhale.sp@gmail.com](mailto:spakhale.sp@gmail.com)
